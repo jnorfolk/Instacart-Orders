@@ -8,4 +8,4 @@ space. I loved it. I explored the dataset to find and fix missing and duplicate 
 Working on describing my project at each step was very valuable to me, as I never had to do that before. I wrote an introduction and conclusion that outlined what I did, and made suggestions to the business.
 
 ## Data Usage
-The data is provided by TripleTen and is proprietary, and therefore may not be published. It is, however, loaded into the notebook.
+The data is provided by TripleTen, who took it from Kaggle and modified it.
